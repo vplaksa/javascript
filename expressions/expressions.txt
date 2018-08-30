@@ -1,0 +1,11 @@
+var a = 3;
+var b = a * 2; //statement
+//statement consist of expressions. a, 2 are expressions
+//a*2 is an arithmetic expressions
+b = a * 2; //
+// 2 is a literal, * is an operator
+//b is left hand side, a*2 is right-hand side
+
+alert(a); //expression statement
+
+b += 2; //compound assignment
